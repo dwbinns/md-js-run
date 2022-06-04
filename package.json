@@ -1,0 +1,13 @@
+{
+  "name": "md-js-run",
+  "version": "1.0.1",
+  "description": "Run all the JS snippets in a markdown file",
+  "bin": "run.js",
+  "type": "module",
+  "license": "ISC",
+  "homepage": "https://github.com/dwbinns/md-js-run",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwbinns/md-js-run.git"
+  }
+}
